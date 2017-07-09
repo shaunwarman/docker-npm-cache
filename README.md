@@ -2,7 +2,7 @@
 A simple npm cache setup
 
 ### Overview
-A npm setup using host cache directory (`~/.npm`) and mounting that to container at absolute at `/root/.npm`.
+A npm setup using host cache directory (`~/.npm`) and mounting that to container at absolute path of `/root/.npm`.
 
 ### Build
 ```
